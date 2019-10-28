@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p51",
+            "request": "launch",
+            "mainClass": "test_p51",
+            "projectName": "test_p51_28ac4835"
+        }
+    ]
+}
